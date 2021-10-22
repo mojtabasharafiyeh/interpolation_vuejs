@@ -1,0 +1,3 @@
+vue.createapp({
+
+}).mount('app')
